@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-app-ztm-react/static/css/main.8a40a3cd.css",
+    "main.js": "/my-app-ztm-react/static/js/main.baeff92f.js",
+    "static/js/453.9193f84e.chunk.js": "/my-app-ztm-react/static/js/453.9193f84e.chunk.js",
+    "static/media/mr-robot.png": "/my-app-ztm-react/static/media/mr-robot.d63445faf0b23d794c5c.png",
+    "index.html": "/my-app-ztm-react/index.html",
+    "main.8a40a3cd.css.map": "/my-app-ztm-react/static/css/main.8a40a3cd.css.map",
+    "main.baeff92f.js.map": "/my-app-ztm-react/static/js/main.baeff92f.js.map",
+    "453.9193f84e.chunk.js.map": "/my-app-ztm-react/static/js/453.9193f84e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a40a3cd.css",
+    "static/js/main.baeff92f.js"
+  ]
+}
